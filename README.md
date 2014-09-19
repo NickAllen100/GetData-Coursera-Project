@@ -21,6 +21,5 @@ This script pulls together Samsung wearables data into one tidy dataset.
   
 To read created files use this code:
 
-data <- read.table(file_path, header = TRUE) 
-View(data)
+data <- read.table(file_path, header = TRUE); View(data)
  
